@@ -1,6 +1,7 @@
 Analog Clock Project 
 
 
+
 📌 Features : 
 
 1. Real-time clock with automatic updates every second
@@ -9,4 +10,4 @@ Analog Clock Project
 
 3. Responsive layout, works on all screen sizes
 
-4.Smooth animations for clock hands
+ 4.Smooth animations for clock hands
